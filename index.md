@@ -7,7 +7,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 python syntax (highlighted)
  ```python
  import numpy as np
-
+ import pandas as pd
  ```
  
 R syntax
