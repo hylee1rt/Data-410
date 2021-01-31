@@ -18,9 +18,9 @@ R syntax
  
 LaTeX sytax
 
-![New equation](https://latex.codecogs.com/gif.latex?\dpi{400}\alpha&space;+&space;\frac{2\beta}{\gamma})
+![New equation](https://latex.codecogs.com/gif.latex?\dpi{200}\alpha&space;+&space;\frac{2\beta}{\gamma})
 
-![New equation](https://latex.codecogs.com/png.latex?\dpi{400}\int&space;\frac{1}{x}&space;dx&space;=&space;\ln&space;\left|&space;x&space;\right|&space;+&space;C)
+![New equation](https://latex.codecogs.com/png.latex?\dpi{100}\int&space;\frac{1}{x}&space;dx&space;=&space;\ln&space;\left|&space;x&space;\right|&space;+&space;C)
 
 ### Markdown
 
