@@ -43,7 +43,38 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+### Table in markdown
 
+| Status | Response  |
+|---|---|
+| 200 |  |
+| 400 |   |
+
+
+Github Flavored Markdown Supports HTML Tag
+
+<table>
+<tr>
+<td> Status </td> <td> Response </td>
+</tr>
+<tr>
+<td> 200 </td>
+<td>
+
+Content here
+
+</td>
+</tr>
+<tr>
+<td> 400 </td>
+<td>
+
+Content here
+
+
+</td>
+</tr>
+</table>
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
